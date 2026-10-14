@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Spr_Alkaid","order":11,"path":"sprites/Spr_Alkaid/Spr_Alkaid.yy",},
+    {"name":"Spr_Beleth","order":10,"path":"sprites/Spr_Beleth/Spr_Beleth.yy",},
+    {"name":"Spr_Brownie","order":14,"path":"sprites/Spr_Brownie/Spr_Brownie.yy",},
+    {"name":"Spr_Bubble","order":2,"path":"sprites/Spr_Bubble/Spr_Bubble.yy",},
+    {"name":"Spr_Ciel","order":13,"path":"sprites/Spr_Ciel/Spr_Ciel.yy",},
+    {"name":"Spr_Elohim","order":9,"path":"sprites/Spr_Elohim/Spr_Elohim.yy",},
+    {"name":"Spr_Iray","order":5,"path":"sprites/Spr_Iray/Spr_Iray.yy",},
+    {"name":"Spr_Jay","order":4,"path":"sprites/Spr_Jay/Spr_Jay.yy",},
+    {"name":"Spr_Kit","order":1,"path":"sprites/Spr_Kit/Spr_Kit.yy",},
+    {"name":"Spr_MrDucky","order":3,"path":"sprites/Spr_MrDucky/Spr_MrDucky.yy",},
+    {"name":"Spr_Orion","order":12,"path":"sprites/Spr_Orion/Spr_Orion.yy",},
+    {"name":"Spr_Rowan","order":8,"path":"sprites/Spr_Rowan/Spr_Rowan.yy",},
+    {"name":"Spr_Yeqon","order":6,"path":"sprites/Spr_Yeqon/Spr_Yeqon.yy",},
+    {"name":"Spr_Yuke","order":7,"path":"sprites/Spr_Yuke/Spr_Yuke.yy",},
+  ],
+}
