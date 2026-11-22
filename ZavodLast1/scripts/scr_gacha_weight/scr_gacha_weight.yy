@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_gacha_weight",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_gacha_weight",
+  "parent":{
+    "name":"ZavodLast1",
+    "path":"ZavodLast1.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

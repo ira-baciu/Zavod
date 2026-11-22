@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_zavod_story_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_zavod_story_data",
+  "parent":{
+    "name":"ZavodLast1",
+    "path":"ZavodLast1.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
