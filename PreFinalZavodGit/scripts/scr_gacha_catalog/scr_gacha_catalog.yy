@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_gacha_catalog",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_gacha_catalog",
+  "parent":{
+    "name":"PreFinalZavod",
+    "path":"PreFinalZavod.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

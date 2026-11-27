@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_zv_onboarding",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_zv_onboarding",
+  "parent":{
+    "name":"PreFinalZavod",
+    "path":"PreFinalZavod.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
